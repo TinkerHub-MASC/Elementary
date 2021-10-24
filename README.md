@@ -1,4 +1,4 @@
-# My Name is Techie
+# My Name is Techie 🧑‍💻
 
 ![hacktober-fest](https://user-images.githubusercontent.com/59057736/138592108-ec6e254d-e63f-4e1b-a1b8-3d1a08d42f0b.png)
 
@@ -113,5 +113,5 @@ Create a pull request to main repo in the organisation's account
 
 ## Step 7
 
-Once the maintainer of the main repo accept your PR, Voila its there !
+Once the maintainer of the main repo accept your PR, Voila its there ! 🍾
 
