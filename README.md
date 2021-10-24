@@ -1,5 +1,8 @@
 # Noobie-Tech
 
+![hacktober-fest](https://user-images.githubusercontent.com/59057736/138592108-ec6e254d-e63f-4e1b-a1b8-3d1a08d42f0b.png)
+
+
 ## About this repo 
 
 This is a repo for beginners to experience the path of open source contribution
