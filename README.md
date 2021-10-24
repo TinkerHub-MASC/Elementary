@@ -68,7 +68,7 @@ Edit files directly on GitHub or Clone the repo from your profile
    * Type ``git clone``, and then paste the URL you copied earlier. It will look like this, with your GitHub username instead of ``YOUR-USERNAME``: 
    * eg:
     
-    git clone https://github.com/YOUR-USERNAME/My-Name_is-Techie   
+    git clone https://github.com/YOUR-USERNAME/Elementary   
 
 ## Step 3
 
