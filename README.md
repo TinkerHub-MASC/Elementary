@@ -1,10 +1,11 @@
-# Noobie-Tech
+# My Name is Techie
+
+![hacktober-fest](https://user-images.githubusercontent.com/59057736/138592108-ec6e254d-e63f-4e1b-a1b8-3d1a08d42f0b.png)
+
 ## pre-requirment
 install git
 
 for ubuntu/deb users 
-
-
 
 ```
 sudo apt install git
@@ -12,11 +13,7 @@ sudo apt install git
 for windows users
  
  [click here](https://git-scm.com/downloads)
-
-
-![hacktober-fest](https://user-images.githubusercontent.com/59057736/138592108-ec6e254d-e63f-4e1b-a1b8-3d1a08d42f0b.png)
-
-
+ 
 ## About this repo 
 
 This is a repo for beginners to experience the path of open source contribution
