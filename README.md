@@ -33,7 +33,7 @@ Edit files directly on GitHub or Clone the repo from your profile
 
 1 edit file directly on github
 
- * In your repository, browse to the file My-Name-is-Techie
+ * In your repository, browse to the file Elementary
  * In the upper right corner of the file view, click pencil icon
   
    ![1](https://docs.github.com/assets/images/help/repository/edit-file-edit-button.png)
