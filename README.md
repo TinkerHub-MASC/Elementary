@@ -1,6 +1,6 @@
 # Elementary 👶
 
-![hacktober-fest](https://user-images.githubusercontent.com/59057736/138592108-ec6e254d-e63f-4e1b-a1b8-3d1a08d42f0b.png)
+![hacktober-fest](https://i.postimg.cc/h4zh92q2/Email-Banners-Dark.png)
 
 ## pre-requirment
 install git
